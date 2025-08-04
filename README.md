@@ -1,16 +1,28 @@
-## Hi there 👋
+# Brian Jones | IT Leader | Network Architect | Cybersecurity Enthusiast
 
-<!--
-**briandj1/briandj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ About Me
 
-Here are some ideas to get you started:
+I am a results-driven IT professional transitioning into the world of cybersecurity. With a solid background in network administration, system support, and process improvement, I have a proven track record of identifying hidden risks (like discovering a rogue ISP connection that prevented a potential lawsuit) and securing complex environments. My goal is to apply my problem-solving skills and hands-on technical expertise to defend critical infrastructure and data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 What I'm Working On
+
+*   🎓 Completing my **Security+ Certification**, focusing on threat intelligence, network defense, and ethical hacking.
+*   🔬 Building out my **Home Security Lab** to simulate enterprise environments and practice defensive/offensive techniques.
+*   ✍️ Analyzing recent cyber attacks and documenting my findings.
+
+---
+
+### 🛠️ My Arsenal (Tools & Technologies)
+
+*   **Security Tools:** Wireshark, Nmap, Security Onion
+*   **Networking:** TCP/IP, DNS, DHCP, VPNs, Firewall Configuration
+*   **Systems:** Windows Server, Active Directory, Linux (Kali, Ubuntu), VMware
+*   **Scripting:** Bash (Beginner), Python (Learning)
+
+---
+
+### 📫 How to Reach Me
+
+*   **Email:** [brian.jones.email@email.com](mailto:brian.jones.email@email.com)
