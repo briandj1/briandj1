@@ -25,4 +25,4 @@ I am a results-driven IT professional transitioning into the world of cybersecur
 
 ### 📫 How to Reach Me
 
-*   **Email:** [brian.jones.email@email.com](mailto:brian.jones.email@email.com)
+*   **Email:** [brian.jonesjm@gmail.com](mailto:brian.jonesjm@gmail.com)
