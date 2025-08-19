@@ -18,7 +18,7 @@ I am a results-driven IT professional transitioning into the world of cybersecur
 
 *   **Security Tools:** Wireshark, Nmap, Security Onion
 *   **Networking:** TCP/IP, DNS, DHCP, VPNs, Firewall Configuration
-*   **Systems:** Windows Server, Active Directory, Linux (Kali, Ubuntu), VMware
+*   **Systems:** Windows Server, Active Directory, Linux (Kali, Ubuntu), Virtualbox
 *   **Scripting:** Bash (Beginner), Python (Learning)
 
 ---
